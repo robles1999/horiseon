@@ -35,10 +35,10 @@ header nav {
 
 header nav ul {
   list-style-type: none;
+  margin: 0;
 }
 
 header nav ul li {
-  list-style-type: none;
   display: inline-block;
   margin-left: 25px;
 }
@@ -126,7 +126,7 @@ article h2 {
 }
 
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -134,7 +134,7 @@ article h2 {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
 
