@@ -19,10 +19,10 @@ The challenge was to refactor the code to meet accessibility standards by using 
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
-## Landing Page
+# Landing Page
 
 [Link to the refactored Horiseon website.](https://robles1999.github.io/horiseon/#social-media-marketing)
 
-## Built with
+# Built with
 
 Website was built using basic HTML and CSS code by a beginner coder.
