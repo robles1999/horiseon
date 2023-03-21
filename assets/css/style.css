@@ -113,18 +113,15 @@ article{
   color: #ffffff;  
 }
 
-
 article img{
 
   max-height: 200px;
 }
 
-
 article h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
 
 footer {
   padding: 30px;
@@ -138,6 +135,9 @@ footer h2 {
   font-size: 20px;
 }
 
+/* ---------------------------------------------------------- */
+/*               code removed do to duplication               */
+/* ---------------------------------------------------------- */
 /* .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
