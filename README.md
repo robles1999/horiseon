@@ -21,7 +21,7 @@ The challenge was to refactor the code to meet accessibility standards by using 
 
 # Landing Page
 
-[Link to the refactored Horiseon website.](https://robles1999.github.io/horiseon/#social-media-marketing)
+[Link to the refactored Horiseon website.](https://robles1999.github.io/horiseon)
 
 # Built with
 
