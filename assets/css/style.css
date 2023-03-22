@@ -137,7 +137,8 @@ footer h2 {
 }
 
 /* ---------------------------------------------------------- */
-/*               code removed do to duplication               */
+/*   code commented out do to duplication and css refactored  */
+/*         would be deleted in a production situation         */
 /* ---------------------------------------------------------- */
 /* .search-engine-optimization {
   margin-bottom: 20px;
